@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="32" fill="#1E3A8A"/>
+  <circle cx="32" cy="32" r="22" fill="none" stroke="#C9A227" stroke-width="2"/>
+  <path fill="#C9A227" d="M32 16.5l2.2 6.8h7.1l-5.8 4.2 2.2 6.8L32 30.1l-5.7 4.2 2.2-6.8-5.8-4.2h7.1z"/>
+  <text x="32" y="46" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7.5" font-weight="700" letter-spacing="0.8" fill="#fff">BMSTU</text>
+</svg>
